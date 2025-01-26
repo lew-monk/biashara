@@ -9,10 +9,10 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/lew-monk/biashara.git/constants"
-	"github.com/lew-monk/biashara.git/handlers"
-	"github.com/lew-monk/biashara.git/models"
-	"github.com/lew-monk/biashara.git/utils"
+	"github.com/lew-monk/biashara/constants"
+	"github.com/lew-monk/biashara/handlers"
+	"github.com/lew-monk/biashara/models"
+	"github.com/lew-monk/biashara/utils"
 )
 
 type Environment struct {

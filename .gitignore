@@ -8,3 +8,4 @@ system-prompt.txt
 *.dll
 *.so
 *.dylib
+main.go

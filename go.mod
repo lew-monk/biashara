@@ -1,4 +1,4 @@
-module github.com/lew-monk/biashara.git
+module github.com/lew-monk/biashara
 
 go 1.23
 

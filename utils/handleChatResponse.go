@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/lew-monk/biashara.git/models"
+	"github.com/lew-monk/biashara/models"
 )
 
 func HandleResponseChat(resp *http.Response) (*models.ChatCompletionResponse, error) {

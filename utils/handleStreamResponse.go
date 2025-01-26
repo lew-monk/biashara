@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/lew-monk/biashara.git/models"
+	"github.com/lew-monk/biashara/models"
 )
 
 type ChatCompletionStreamInterface interface {

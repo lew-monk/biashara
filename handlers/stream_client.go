@@ -6,8 +6,8 @@ import (
 	"errors"
 	"log"
 
-	"github.com/lew-monk/biashara.git/models"
-	"github.com/lew-monk/biashara.git/utils"
+	"github.com/lew-monk/biashara/models"
+	"github.com/lew-monk/biashara/utils"
 )
 
 func CreateStreamChatCompletion(
